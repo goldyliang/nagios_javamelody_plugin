@@ -80,4 +80,4 @@ Contributing
 6. Enjoy a refreshing Diet Coke and wait
 
 
-[1]: https://github.com/sbower/nagios_javamelody_plugin/issues
+[1]: https://github.com/goldyliang/nagios_javamelody_plugin/issues
